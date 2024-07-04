@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-dane_energy_tracking = "EduhnXzkm9ZKHZsV9AneSFk6BRhJ6bEP5YJG9BjaUwcA"
+dane_program = "75TxYoyXwZTDSjCR8QtryQyGmohFKD5kXDzVik9PAKwf"
 
 [registry]
 url = "https://api.apr.dev"
